@@ -14,9 +14,9 @@ public class AliOssUtil {
 
     private static final String ENDPOINT = "https://oss-cn-beijing.aliyuncs.com";
 
-    private static final String ACCESS_KEY_ID="LTAI5tMkURVJ4iuCMDN7Ghek";
-    private static final String ACCESS_KEY_SECRET="kPSm2Ezfa6OuQfiNGyHBMLIj6w3dqV";
-    private static final String BUCKET_NAME = "di-big-event";
+    private static final String ACCESS_KEY_ID="";
+    private static final String ACCESS_KEY_SECRET="";
+    private static final String BUCKET_NAME = "";
 
     public static String uploadFile(String objectName, InputStream in) throws Exception {
 
